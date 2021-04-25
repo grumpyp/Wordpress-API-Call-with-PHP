@@ -16,4 +16,4 @@ I filtered the response to get only the count object and all the API names which
 
 The result looks like this:
 
-![Screenshot](response.JPG)
+![Screenshot](response.jpg)
